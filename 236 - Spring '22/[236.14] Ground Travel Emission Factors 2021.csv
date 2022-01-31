@@ -1,0 +1,4 @@
+Name,Emissions Factor Data Source,Distance Unit,Personal Car Emissions (kg CO2e/Distance Unit),Taxi Emissions (kg CO2e/Distance Unit),Taxi Rate (Cost/Distance Unit),Train Emissions (kg CO2e/Distance Unit),Train Rate (Cost/Distance Unit),Emissions Factor Update Year
+Name,EmissionFactorDataSource,DistanceUnit,PersCarEmssnInKgCo2eDstnUnit,TaxiEmssnInKgCo2eDstnUnit,TaxiRateForDstnUnit,TrainEmssnInKgCo2eDstnUnit,TrainRateForDstnUnit,EmissionFactorUpdateYear
+Scope 3 Ground Travel - AMER - US EPA 2021,US EPA,Miles,0.341,0.341,2,0.113,0.25,2021
+Scope 3 Ground Travel - EMEA - DEFRA 2021,DEFRA,Kilometers,0.17148,0.14876,7.21,0.00446,0.25,2021
